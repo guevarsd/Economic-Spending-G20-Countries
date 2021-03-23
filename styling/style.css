@@ -244,18 +244,18 @@ ul#menu li a:hover {
     padding: 5px 0 5px 0;
 }
 
-#military_content {
+#spending_content {
     text-align: left;
     width: 950px;
     float: left;
     padding: 20px 0 15px 30px;
 }
 
-#military_content ul {
+#spending_content ul {
     margin: 2px 0 22px 0;  
 }
 
-#military_content ul li {  
+#spending_content ul li {  
     list-style: none;
     margin: 0 0 6px 0;
     padding: 0 0 0.5px 0;
