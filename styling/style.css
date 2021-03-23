@@ -85,7 +85,7 @@ ul li { /* said li is child of ul */
 
 #logo {
     width: 1000px;
-    background: url(images/G20Italy.png);
+    background: url(G20Italy.png);
     position: relative; /* inside the box */
     height: 300px;
 
@@ -198,7 +198,7 @@ ul#menu li a:hover {
 .sidebar li a, .sidebar li a:hover {
     padding: 0 0 0 30px;
     display: block;
-    background: transparent url(images/bullet.png) no-repeat left center;
+    background: transparent url(bullet.png) no-repeat left center;
 }
 
 .sidebar li a.selected {
