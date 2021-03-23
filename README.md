@@ -4,7 +4,7 @@ The [G20](https://www.g20.org/) consists of 20 of the world's major economies, w
 
 This project looks at the economic spending of 12 of these members. This constitutes an investigation into how these 12 countries spend on eduction, healthcare and national defense -- three important indicators that bolster and secure the economic and social well-being of a nation.
 
-This was a course project for GWU's visualization course 6401. All visualizations were made using Google's Visualization API.
+This was an intro project for GWU's visualization course 6401. All visualizations were made using Google's Visualization API.
 
 ### G20 Members for this Project:
 
